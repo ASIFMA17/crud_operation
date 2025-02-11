@@ -77,9 +77,9 @@ function Footer() {
 
                 <div className="footerLinks">
                     <span className="linkTitle">Contact Details</span>
-                    <span className="phone">+0000000000</span>
-                    <span className="email">raftlabs@gmail.com</span>
-                    <span className="site">www.raftlabs.com</span>
+                    <span className="phone">+91 8943263186</span>
+                    <span className="email">ma17asif007@gmail.com</span>
+                    <span className="site">www.000000.com</span>
 
                 </div>
 
